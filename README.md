@@ -37,3 +37,5 @@ pip install PyMuPDF sentence-transformers transformers scikit-learn openai
 3. **Run the Notebook:**
    * Execute the first cell to install the required libraries.
    * Run the remaining cells in order. The script will process the PDF, create the embeddings, and then prompt you to enter your question.
+
+
